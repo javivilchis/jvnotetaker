@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "update the copies",
+        "text": "Update files so that I can create new files."
+    },
+    {
+        "id": 2,
+        "title": "javier",
+        "text": "vilchis"
+    },
+    {
+        "id": 3,
+        "title": "The real deal Javier",
+        "text": "This is the note taker"
+    },
+    {
+        "id": 4,
+        "title": "Another Note",
+        "text": "This is going into a heroku app."
+    }
+]
